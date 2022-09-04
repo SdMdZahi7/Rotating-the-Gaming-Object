@@ -58,7 +58,8 @@ public class NewBehaviourScript : MonoBehaviour
 }
 ~~~
 ## Output:
-![GitHub Logo](Screenshot (1).png)
+![Screenshot (1)](https://user-images.githubusercontent.com/94187572/188313498-d67a99e4-0bb6-46b1-8ecf-f3e695a6d4fa.png)
+
 ## Result:
 Thus a 3D application for rotating the gaming objects in unity is developed successfully.
 
